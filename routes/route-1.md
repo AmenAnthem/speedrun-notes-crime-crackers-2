@@ -49,8 +49,8 @@ author: AmenAnthem
 - spam normal on boss' belly
 - straight, upstairs, straight
 - left, right, straight, left
-- get item, turn, left, right, right
-- terminal, turn, right, right, terminal
+- get item, turn, left, right
+- straight, right, right, terminal
 - turn, straight, upstairs
 - straight, right, bridge, left, left
 - bridge, bridge, right, upstairs
@@ -58,10 +58,23 @@ author: AmenAnthem
 - downstairs, left, bridge, bridge
 - left, upstairs, straight, right
 - destroy left wall, left, right
-- straight, upstairs, fully straight
-- upstairs, right, right, right
-- left, left, left, right, right
-- left, left, right, straight
+- straight, upstairs, fully straight, upstairs
+- **Labyrinth start**
+    - left, straight
+    - right, straight
+    - left, right, right
+    - left, straight, left
+    - right, left, straight
+    - right, left, left, left
+    - right, left, right
+    - left, right, left
+    - right, straight, right
+    - right, straight
+    - left, left, right
+    - right, right
+    - left, straight, left
+    - keep left until end
+- **Labyrinth end**
 - upstairs, switch to robot
 - door, confirm enter
 - use last item, shoot boss' belly with both
