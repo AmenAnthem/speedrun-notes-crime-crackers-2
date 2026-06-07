@@ -60,20 +60,9 @@ author: AmenAnthem
 - destroy left wall, left, right
 - straight, upstairs, fully straight, upstairs
 - **Labyrinth start**
-    - left, straight
-    - right, straight
-    - left, right, right
-    - left, straight, left
-    - right, left, straight
-    - right, left, left, left
-    - right, left, right
-    - left, right, left
-    - right, straight, right
-    - right, straight
+    - left, straight, right
     - left, left, right
-    - right, right
-    - left, straight, left
-    - keep left until end
+    - left, right, straight
 - **Labyrinth end**
 - upstairs, switch to robot
 - door, confirm enter
